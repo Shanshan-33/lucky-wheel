@@ -1,0 +1,29 @@
+.question {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+}
+.question:hover {
+  cursor: pointer;
+  background-color: #eeeeee;
+}
+.question-input {
+  font-size: 1.2rem;
+  margin: 0.5rem;
+  width: 30%;
+}
+.question-container {
+  display: flex;
+  align-items: center;
+}
+.question-text {
+  font-size: 26px;
+  font-weight: 700;
+}
+.question-edit-btn {
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+}

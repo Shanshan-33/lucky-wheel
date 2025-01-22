@@ -1,0 +1,7 @@
+.whell-wrapper {
+  width: 100%;
+  height: calc(100vh - 183px);
+  /* background-color: #212121;
+  color: #fff; */
+  display: flex;
+}
